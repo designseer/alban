@@ -2924,8 +2924,8 @@ header.header-three {
 .testimonial-section {
   position: relative;
   z-index: 1;
-  padding-top: 130px;
-  padding-bottom: 160px;
+  padding-top: 100px;
+  padding-bottom: 100px;
   overflow: hidden; }
   @media (max-width: 1800px) {
     .testimonial-section {
