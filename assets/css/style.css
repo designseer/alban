@@ -5175,8 +5175,8 @@ header.header-three {
           font-size: 22px;
           margin-bottom: 10px; } }
     .project-details .project-content .details ul li:not(:last-child) {
-      padding-bottom: 30px;
-      margin-bottom: 30px;
+      padding-bottom: 15px;
+      margin-bottom: 15px;
       border-bottom: 1px solid #334959; }
       @media (max-width: 991px) {
         .project-details .project-content .details ul li:not(:last-child) {
