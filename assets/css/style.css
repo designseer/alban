@@ -4382,12 +4382,12 @@ header.header-three {
     z-index: 1; }
     .advanced-tab .tab-content .tab-text-block.with-left-circle::before, .advanced-tab .tab-content .tab-text-block.with-right-circle::before {
       position: absolute;
-      left: -150px;
-      bottom: -130px;
-      height: 300px;
-      width: 300px;
+      left: -100px;
+      bottom: -80px;
+      height: 200px;
+      width: 200px;
       background-color: transparent;
-      border: 50px solid #ff4a17;
+      border: 20px solid #ff4a17;
       z-index: -1;
       content: "";
       border-radius: 50%; }
@@ -4395,8 +4395,8 @@ header.header-three {
         .advanced-tab .tab-content .tab-text-block.with-left-circle::before, .advanced-tab .tab-content .tab-text-block.with-right-circle::before {
           left: -100px;
           bottom: -80px;
-          width: 200px;
-          height: 200px;
+          width: 150px;
+          height: 150px;
           border-width: 20px; } }
       @media (max-width: 991px) {
         .advanced-tab .tab-content .tab-text-block.with-left-circle::before, .advanced-tab .tab-content .tab-text-block.with-right-circle::before {
