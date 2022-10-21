@@ -179,6 +179,9 @@ a {
     color: #ff4a17; }
 
 /*=======  Common Classes  =======*/
+.text-red {
+  color: #ff4a17;
+}
 .main-btn {
   line-height: 50px;
   font-size: 18px;
@@ -5156,7 +5159,8 @@ header.header-three {
       margin-bottom: 30px; } }
   .project-details .project-content .details ul li {
     color: #c7dff2;
-    font-size: 15px; }
+    font-size: 15px;
+    font-weight: 600; }
     @media (max-width: 991px) {
       .project-details .project-content .details ul li {
         display: inline-block; } }
@@ -5293,7 +5297,6 @@ header.header-three {
   text-align: center;
   margin-bottom: 40px; }
   .product-loop .single-product .product-img {
-    margin-bottom: 30px;
     position: relative; }
   .product-loop .single-product .product-action {
     position: absolute;
@@ -5336,7 +5339,9 @@ header.header-three {
   .product-loop .single-product .title {
     font-size: 18px;
     font-weight: 600;
-    margin-bottom: 5px; }
+    margin-bottom: 5px;
+    background: #ffdbd4;
+    padding: 20px 0; }
   .product-loop .single-product .price {
     font-size: 15px;
     color: #ff4a17;
