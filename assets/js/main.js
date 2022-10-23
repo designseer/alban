@@ -1,32 +1,3 @@
-/*---------------------------
-	JS INDEX
-	===================
-	01. Main Menu
-	02. OffCanvasMenu
-	03. Banner Slider
-	04. Bootstrap accordion
-	05. Popup video
-	06. Counter Up
-	07. Team Slider
-	08. Testimonial Slider
-	09. Client Logo Slider
-	10. Easy PieChart
-	11. LaestPost Slider
-	12. fact isotope activation
-	13. Active Progress Bar
-	14. Project Isotope
-	15. Price Range
-	16. Product Gallery Slider
-	17. Related Product Slider
-	18. Quantity Increment
-	19. Back to top
-	20. Sticky Header
-	21. Preloader and init Wow
-	22. Wow Js
-
------------------------------*/
-
-
 (function ($) {
 	'use strict';
 
